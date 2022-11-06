@@ -1,0 +1,76 @@
+{
+  "register": [
+    {
+      "name": "deepak",
+      "email": "choudharydeepak026@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "deepika",
+      "email": "this@this.com",
+      "password": "123654",
+      "id": 2
+    },
+    {
+      "name": "Mubashreen",
+      "email": "bob@this.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "bob",
+      "email": "bob@this.com",
+      "password": "456",
+      "id": 4
+    },
+    {
+      "name": "Mubashreen",
+      "email": "bob@this.com",
+      "password": "899",
+      "id": 5
+    },
+    {
+      "name": "deepak",
+      "email": "choudharydeepak026@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "name": "Indian Clock",
+      "email": "choudharydeepak026@gmail.com",
+      "address": "Bhopal",
+      "id": 1
+    },
+    {
+      "name": "Deepika",
+      "email": "Deepika@this.com",
+      "address": "Bhopal",
+      "id": 2
+    },
+    {
+      "name": "God",
+      "email": "choudharydeepak026@gmail.com",
+      "address": "world",
+      "id": 3
+    },
+    {
+      "name": "Restaurant Back",
+      "email": "Restaurant@this.com",
+      "address": "Bhopal",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

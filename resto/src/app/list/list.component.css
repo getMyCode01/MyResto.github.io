@@ -1,0 +1,22 @@
+
+    h1{
+        margin: 28px;
+        color: white;
+        border: 2px solid black;
+        display: inline-block;
+        border-top-left-radius: 54px;
+        padding: 2px 24px;
+        border-bottom-right-radius: 54px;
+        background:#000000c7;
+        }
+    
+    .card {
+        width: 60rem;
+        margin: 20px auto;
+        padding: 48px 83px;
+        border-bottom-left-radius: 100px;
+        border-top-right-radius: 100px;
+        background: #74e9deed;
+        font-weight: 600;
+    }
+    
